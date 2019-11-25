@@ -1,0 +1,2 @@
+include ':app', ':GraphView-4.2.1'
+rootProject.name='My Application'
